@@ -12,7 +12,7 @@ This is an online web-based project that records the pending tasks and their com
 ## 访问链接
 您可以通过右侧链接进入访问源码。本项目源码用于学习交流，请勿用于商业用途。(https://github.com/missdails/my-todolist-pinia-)
 ## 试用链接
-您可以通过访问右侧链接来体验（http://39.106.163.104/todo）
+您可以通过访问右侧链接来体验 http://39.106.163.104/todo
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
